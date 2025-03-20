@@ -62,14 +62,3 @@ Enhancing salary prediction models
 
 Expanding dataset with more job listings
 
-Contributing
-
-Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request with improvements.
-
-License
-
-This project is open-source and available under the MIT License.
-
-Contact
-
-For any questions or feedback, reach out via GitHub issues.
